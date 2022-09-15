@@ -1,10 +1,17 @@
 # Film Fest
 
+Single page application to search any movie or series.
+<br>
+
+# 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `npm install`
+Installs all the mode modules.
 
 ### `npm start`
 
@@ -39,6 +46,7 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
+<!--
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
@@ -67,4 +75,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify) -->
+
+# 
+
+[![Made with React](https://img.shields.io/badge/Made%20with-React-61DBFB?style=for-the-badge&logo=React)](https://reactjs.org/)
+[![Made with Bootstrap](https://img.shields.io/badge/Little%20bit%20-Bootstrap-purple?style=for-the-badge&logo=Bootstrap)](https://getbootstrap.com/)
+
+Cooked with <span style="color: #e25555;">&#9829;</span> by [WilsonVD](https://github.com/Wilson0406)
